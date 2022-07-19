@@ -224,7 +224,7 @@ export default function Example() {
 
       <header className="relative bg-white">
         <p className="bg-orange h-10 flex items-center justify-center text-sm font-medium text-white px-4 sm:px-6 lg:px-8">
-          Site em construção...
+          WhatsApp: (92) 9387-5007
         </p>
 
         <nav aria-label="Top" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
